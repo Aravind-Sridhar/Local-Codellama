@@ -1,0 +1,7 @@
+FROM codellama
+
+PARAMETER TEMPERATURE=0.7
+
+SYSTEM """
+
+"""
